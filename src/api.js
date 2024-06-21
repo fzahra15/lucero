@@ -1,0 +1,1 @@
+export const mainApi = 'https://lucero.zakirabd.com/public/api'
